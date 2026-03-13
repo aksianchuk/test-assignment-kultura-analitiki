@@ -1,6 +1,6 @@
-# Test task Kultura Analitiki
+# Test Assignment Kultura Analitiki
 
-**Test task Kultura Analitiki** - тестовое задание по реализации асинхронного сервера и клиента с использованием aiohttp, генерации OpenAPI контракта и написанию тестов.
+**Test Assignment Kultura Analitiki** - тестовое задание по реализации асинхронного сервера и клиента с использованием aiohttp, генерации OpenAPI контракта и написанию тестов.
 
 ## Оглавление
 
